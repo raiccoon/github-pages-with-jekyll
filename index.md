@@ -5,34 +5,3 @@ Hello! My name is Rachel Ai.
 
 
 <h2>Brag Sheet: School Clubs</h2>
-<ul>
-  <li>Math Team (grades 9-12): 5hrs/week during school year
-    <ul>
-      <li>9th: team member</li>
-      <li>10th: vice president</li>
-      <li>11-12th: president</li>
-    </ul>
-  </li>
-  <li>Science Olympiad (grades 6-12): 3hrs/week during school year
-    <ul>
-      <li>6th-11th: team member</li>
-      <li>12th: building coordinator</li>
-    </ul>
-  </li>
-  <li>Science League (grade 9-12): 2hrs/week during January-April
-  <ul>
-      <li>9th-12th: team member</li>
-    </ul>
-  </li>
-  <li>Science Honors Society (grades 11-12): 1hr/week
-  <ul>
-      <li>11th: cepheid editor</li>
-      <li>12th: cepheid editor in chief</li>
-    </ul>
-  </li>
-  <li>EBHS Mu Alpha Theta (Math Honors Society) (grades 11-12): 1hr/week
-  <ul>
-      <li>11th-12th:member</li>
-    </ul>
-  </li>
-</ul>
